@@ -21,11 +21,9 @@ This project demonstrates how to handle local data storage in Flutter using SQLi
 
 ## Screenshots 📱
 
-_Add screenshots after pushing the project_
-
 | Add User | View Users | User Details |
 |----------|------------|--------------|
-| ![Add User](assets/add_user.jpg) | ![View Users](assets/view_users.jpg) | ![User Details](assets/user_details.jpg) |
+| <img src="assets/add_user.jpg" width="150" height="300"/> | <img src="assets/view_users.jpg" width="150" height="300"/> | <img src="assets/user_details.jpg" width="150" height="300"/> |
 
 ---
 
