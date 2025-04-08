@@ -1,16 +1,40 @@
-# sqlite_crud_operation
+# Flutter SQLite CRUD App
 
-A new Flutter project.
+A simple Flutter application to perform CRUD (Create, Read, Update, Delete) operations using SQLite Database.
 
-## Getting Started
+This project demonstrates how to handle local data storage in Flutter using SQLite with a clean architecture approach.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features 🚀
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add New User
+- View All Users
+- View User Details
+- Update User Information
+- Delete User
+- SQLite Database Integration
+- Asynchronous Programming using Future
+- Structured & Clean Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Screenshots 📱
+
+_Add screenshots after pushing the project_
+
+| Add User | View Users | User Details |
+|----------|------------|--------------|
+| ![Add User](assets/add_user.jpg) | ![View Users](assets/view_users.jpg) | ![User Details](assets/user_details.jpg) |
+
+---
+
+## Packages Used 🧩
+
+| Package         | Usage                                |
+|-----------------|-------------------------------------|
+| sqflite         | For SQLite database operations     |
+| path            | To manage file paths               |
+| path_provider   | To get device directory paths      |
+
+---
